@@ -1,0 +1,11 @@
+{
+  "name": "passport-oauth1",
+  "version": "1.1.0",
+  "main": "lib/index.d.ts",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160824014937"
+  },
+  "dependencies": {
+    "passport-strategy": "registry:npm/passport-strategy#1.0.0+20161027023236"
+  }
+}
